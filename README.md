@@ -9,7 +9,7 @@ A **real-time sentiment analysis web application** that classifies movie reviews
 
 ## 🚀 Live Demo
 
-[**Try the App Live →**](#) *(Add your deployed URL here)*
+[**Try the App Live →**](#) *(https://imdb-movie-review-sentiment-analysis-d4pc.onrender.com/)*
 
 ## ✨ Features
 
